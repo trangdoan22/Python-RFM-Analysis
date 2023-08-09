@@ -1,4 +1,4 @@
-**RFM Analysis**
+# RFM Analysis
 
 **1. What Is Recency, Frequency, Monetary Value (RFM)?**
 
@@ -31,11 +31,6 @@ The Data Department need to:
 - Visualizations:
 
 ![image](https://github.com/trangdoan22/RFM-Analysis/assets/140712745/18452d10-3cd3-434e-9069-735632dbb16d)
-
-=> The number of customers by each customer segment:
-
-+ Potential Loyalist account forrate (14.29%)
-+ The percentage of At Risk customers (12.14%) and Lost customers (10.49%) are in the high group
 
 ![image](https://github.com/trangdoan22/RFM-Analysis/assets/140712745/35439018-ee2e-4c53-b725-59afbb933f6e)
 
